@@ -8,4 +8,8 @@
 
 
 
+## [2. Observer Pattern](https://github.com/0ofKIM/DesignPattern/wiki/Observer-Pattern)
+
+
+
 ## [3. Decorator Pattern](https://github.com/0ofKIM/DesignPattern/wiki/Decorator-Pattern)
