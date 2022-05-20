@@ -13,3 +13,7 @@
 
 
 ## [3. Decorator Pattern](https://github.com/0ofKIM/DesignPattern/wiki/Decorator-Pattern)
+
+
+
+## [4. (Simple) Factory Pattern](https://github.com/0ofKIM/DesignPattern/wiki/(Simple)-Factory-Pattern)
